@@ -101,6 +101,7 @@ header nav ul li a {
 .information img {
     max-height: 200px;
     margin: 0 25px 0 25px;
+    display: inline-block;
 }
 
 .information h2 {
