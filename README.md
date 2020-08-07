@@ -4,12 +4,12 @@
 https://aznjp.github.io/Develop/
 
 "Screenshots of website is also listed down below"
-<img src= "./Screenshot1.jpeg">
+<img src= "./Screenshot1.jpg">
 
 <br>
 
-<img src= "./Screenshot2.jpeg">
+<img src= "./Screenshot2.jpg">
 
 <br>
 
-<img src= "./Screenshot3.jpeg">
+<img src= "./Screenshot3.jpg">
