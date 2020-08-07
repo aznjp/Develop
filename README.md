@@ -3,5 +3,13 @@
 "Link to the website is listed below"
 https://aznjp.github.io/Develop/
 
-"Screenshot of website is also listed down below"
-<img src= "./Screenshot.png">
+"Screenshots of website is also listed down below"
+<img src= "./Screenshot1.jpeg">
+
+<br>
+
+<img src= "./Screenshot2.jpeg">
+
+<br>
+
+<img src= "./Screenshot3.jpeg">
