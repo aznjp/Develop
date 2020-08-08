@@ -4,4 +4,4 @@
 https://aznjp.github.io/Horiseon-Business/
 
 "Screenshots of website is also listed down below"
-<img src= "./Screenshot.png">
+<img src= "./assets/images/Screenshot.png">
